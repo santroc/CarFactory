@@ -3,7 +3,7 @@ import automovil, motor
 Automovil = automovil.Automovil
 Motor = motor.Motor
 
-class Configuración(Automovil, Motor):
+class Configuracion(Automovil, Motor):
 
     def __init__(self, precio, Automovil, Motor):
         self.precio = precio
