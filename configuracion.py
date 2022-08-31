@@ -11,4 +11,4 @@ class Configuracion(Automovil, Motor):
         self.Motor = Motor
 
 
-#Soy un comentario en la rama de dev1
+#Soy un comentario en la rama de master modificado ahora desde GitHub
